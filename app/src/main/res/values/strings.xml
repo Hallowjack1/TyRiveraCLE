@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TyRiveraCLE</string>
+    <string name="tourist_spots_worldwide">Tourist Spots Worldwide</string>
+    <string name="scroll">scroll</string>
+    <string name="burj">burj</string>
+    <string name="park">park</string>
+    <string name="tower">tower</string>
+    <string name="falls">falls</string>
+    <string name="burj_khalifa">Burj Khalifa</string>
+    <string name="central_park">Central Park</string>
+    <string name="eiffel_tower">Eiffel Tower</string>
+    <string name="niagara_falls">Niagara Falls</string>
+    <string name="burj_khlaifa_content">\n\t\t\t\t\t\t\t\tDubai,United Arab Emirates\n\nBurj Khalifa, Khalifa also spelled Khalīfah, mixed-use skyscraper in Dubai, United Arab Emirates, that is the world’s tallest building, according to all three of the main criteria by which such buildings are judged. Burj Khalifa (“Khalifa Tower”), known during construction as Burj Dubai, was officially named to honour the leader of the neighbouring emirate of Abu Dhabi, Sheikh Khalifa ibn Zayed Al Nahyan.</string>
+    <string name="niagara_falls_content">\n\t\tNorth America\n\nNiagara Falls, waterfall on the Niagara River in northeastern North America, one of the continent’s most famous spectacles. The falls lie on the border between Ontario, Canada, and New York state, U.S. For many decades the falls were an attraction for honeymooners and for such stunts as walking over the falls on a tightrope or going over them in a barrel.</string>
+    <string name="central_park_content">\n\t\tManhattan, New York\n\nCentral Park, largest and most important public park in Manhattan, New York City. It occupies an area of 840 acres (340 hectares) and extends between 59th and 110th streets (about 2.5 miles [4 km]) and between Fifth and Eighth avenues (about 0.5 miles [0.8 km]). It was one of the first American parks to be developed using landscape architecture techniques.</string>
+    <string name="eiffel_tower_content">\n\t\tParis, France\n\nEiffel Tower, French Tour Eiffel, Parisian landmark that is also a technological masterpiece in building-construction history. When the French government was organizing the International Exposition of 1889 to celebrate the centenary of the French Revolution, a competition was held for designs for a suitable monument. More than 100 plans were submitted, and the Centennial Committee accepted that of the noted bridge engineer Gustave Eiffel.</string>
+</resources>
