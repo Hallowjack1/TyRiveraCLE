@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#6AC2CC"
-    tools:context=".Home">
+    tools:context=".Home"
+    android:orientation="vertical">
 
     <TextView
         android:id="@+id/textView"
@@ -15,6 +16,7 @@
         android:textAlignment="center"
         android:textColor="#000000"
         android:textSize="34sp"
+        android:translationX="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.488"
@@ -131,4 +133,4 @@
         </androidx.gridlayout.widget.GridLayout>
     </ScrollView>
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>
